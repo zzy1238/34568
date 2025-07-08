@@ -22,4 +22,4 @@
 
 5. 遵守合规与法律规定
 最后，对于涉及成人内容的网站来说，合规性问题尤为重要。确保平台的运营符合相关法律法规，不违反任何国家或地区的规定，不仅能保障平台的长期稳定运行，也能避免因法律风险而导致的排名下降。
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/zzy1238/34568 ）</span>
